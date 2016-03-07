@@ -1,7 +1,7 @@
 name: la_fuite
 favicon: null
-layout_spectrum: 0.8046364232432097
-typography_spectrum: 0.03689945419318974
+layout_spectrum: 0.3166
+typography_spectrum: 0.57887
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4204278076067567
-  lightness: 0.44390641478821635
-  saturation: 0.3819167693145573
+    - '#4467a3'
+    - '#7b9fc2'
+    - '#646d69'
+    - '#475153'
+    - '#77807c'
+  brandStrength: 0.4375
+  lightness: 0.25
+  saturation: 0.5625
   rhythmicContrast: 0.8059819226618856
 purpose: []
